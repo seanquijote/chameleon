@@ -1,11 +1,8 @@
 {
-  "name": "gif-you-up",
+  "name": "chameleon",
   "version": "0.0.1",
-  "description": "WASM GIF converter",
-  "keywords": [
-    "GIF",
-    "gif you up"
-  ],
+  "description": "FFMPEG WASM media converter",
+  "keywords": ["converter"],
   "author": "Sean Quijote",
   "license": "ISC",
   "scripts": {

@@ -1,6 +1,6 @@
-# New Project
+# Chameleon
 
-> ✨ Bootstrapped with Create Snowpack App (CSA).
+> ✨ FFMPEG WASM media converter
 
 ## Available Scripts
 

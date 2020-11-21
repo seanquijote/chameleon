@@ -1,4 +1,13 @@
 {
+  "name": "gif-you-up",
+  "version": "0.0.1",
+  "description": "WASM GIF converter",
+  "keywords": [
+    "GIF",
+    "gif you up"
+  ],
+  "author": "Sean Quijote",
+  "license": "ISC",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
@@ -7,6 +16,8 @@
     "lint": "prettier --check \"src/**/*.{js,jsx}\""
   },
   "dependencies": {
+    "@ffmpeg/core": "^0.8.4",
+    "@ffmpeg/ffmpeg": "^0.9.5",
     "react": "^17.0.0",
     "react-dom": "^17.0.0"
   },

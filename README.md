@@ -1,6 +1,6 @@
 # Chameleon
 
-> ✨ FFMPEG WASM media converter
+> ✨ FFMPEG WASM media converter using React
 
 ## Available Scripts
 
